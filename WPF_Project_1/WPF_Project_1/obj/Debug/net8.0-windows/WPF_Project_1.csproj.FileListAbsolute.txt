@@ -261,3 +261,5 @@ C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Proje
 C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\MainWindow - Copy.g.cs
 C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\Employees.baml
 C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\MainWindow - Copy.baml
+C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\Manage1.baml
+C:\Users\Burykin.S.A\Documents\GitHub\WPF_Inception_2024\WPF_Project_1\WPF_Project_1\obj\Debug\net8.0-windows\Manage1.g.cs
